@@ -12,4 +12,4 @@ services:
     volumes:
       - ./data:/var/lib/postgresql
     ports:
-      - 3306:3306
+      - 5432:5432
